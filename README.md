@@ -21,7 +21,7 @@ print('고양이는 너무 귀여워요!!!')
 
 ## Reference
 
-크집사(https://www.youtube.com/@claire_luvcat)
+[크집사 링크](https://www.youtube.com/@claire_luvcat)
 
 ## Issue
 
